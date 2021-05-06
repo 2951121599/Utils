@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="C:\Users\cuite\PycharmProjects\ML\0420_稳定性_三人个体样本_五批\02_余弦相似性\归一化数据\ratio_nm_data_20210325_24h_run2_area_merge.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\cuite\PycharmProjects\ML\0420_稳定性_三人个体样本_五批\02_余弦相似性\归一化数据\ratio_nm_data_20210326_48h_run3_area_merge.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\cuite\PycharmProjects\ML\0420_稳定性_三人个体样本_五批\02_余弦相似性\归一化数据\ratio_nm_data_20210327_72h_run4_area_merge.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\cuite\PycharmProjects\ML\0420_稳定性_三人个体样本_五批\02_余弦相似性\归一化数据\ratio_nm_data_20210331_7day_run5_area_merge.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\cuite\PycharmProjects\ML\0420_稳定性_三人个体样本_五批\02_余弦相似性\归一化数据\ratio_nm_data_20210408_14day_run6_area_merge.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\0420_稳定性_三人个体样本_五批\01_提取样本名称信息\simple_sample_info\sample_info_list_run2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\0420_稳定性_三人个体样本_五批\01_提取样本名称信息\simple_sample_info\sample_info_list_run3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\0420_稳定性_三人个体样本_五批\02_余弦相似性\ratio_nm_data_20210324_fresh_0h_run1_area_merge.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\0420_稳定性_三人个体样本_五批\02_余弦相似性\sample_info_list_run1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\0420_稳定性_三人个体样本_五批\02_余弦相似性\sample_info_list_run2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\0420_稳定性_三人个体样本_五批\02_余弦相似性\sample_info_list_run3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\0420_稳定性_三人个体样本_五批\02_余弦相似性\sample_info_list_run4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\0420_稳定性_三人个体样本_五批\02_余弦相似性\sample_info_list_run5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\0420_稳定性_三人个体样本_五批\02_余弦相似性\sample_info_list_run6.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\0420_稳定性_三人个体样本_五批\02_余弦相似性\归一化数据-去除NB和SP\ratio_nm_data_20210325_24h_run2_area_merge.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\list_shuffle.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\合并文件(有无列名)\simple_sample\sp_result_run1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\工具包函数.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\工具包函数_文件路径.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\获取路径下所有的csv文件名.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
